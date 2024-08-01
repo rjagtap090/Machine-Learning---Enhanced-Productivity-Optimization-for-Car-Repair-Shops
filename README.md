@@ -32,7 +32,7 @@ This project uses R to analyze data from five car repair shops. The goal was to 
    - Developed models to streamline operations and reduce query processing time.
    - Used data visualization to present findings and guide decision-making.
 
-## Example R Code
+## R Code(complete code above)
 
 ```r
 # Load necessary libraries
