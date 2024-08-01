@@ -1,0 +1,27 @@
+1.Data Loading and Cleaning:
+   - Load the dataset from a CSV file.
+   - Clean the data by removing any missing values.
+
+2.Estimating Owner Presence Probability:
+   - Use logistic regression to estimate the probability of owner presence.
+
+3.k-means Clustering:
+   - Apply k-means clustering to segment the data and identify patterns.
+   - Visualize the clusters using ggplot2.
+
+4.Feature Engineering:
+   - Prepare the data for predictive modeling by splitting it into training and testing sets.
+
+5.Random Forest Model:
+   - Train a Random Forest model to predict productivity.
+   - Evaluate the model using Mean Squared Error (MSE) and R-squared metrics.
+
+6.Support Vector Machine (SVM) Model:
+   - Train an SVM model to predict productivity.
+   - Evaluate the model using MSE and R-squared metrics.
+
+7. Query Processing Time Reduction:
+   - Use the best-performing model to optimize query processing time.
+
+8. Visualization:
+   - Visualize the relationship between owner presence probability and productivity.
